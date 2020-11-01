@@ -1440,3 +1440,45 @@ $ git commit -m "added Project"
 
 CSCMWS+cjerome@US-5CG032847N MINGW64 /c/Personal/DevApp/12.Capstone_Project (master)
 $
+
+CSCMWS+cjerome@US-5CG032847N MINGW64 /c/Personal/DevApp/test (master)
+$ cd ..
+
+CSCMWS+cjerome@US-5CG032847N MINGW64 /c/Personal/DevApp
+$ cd 12.Capstone_Project/
+
+CSCMWS+cjerome@US-5CG032847N MINGW64 /c/Personal/DevApp/12.Capstone_Project (master)
+$ git init
+Reinitialized existing Git repository in C:/Personal/DevApp/12.Capstone_Project/.git/
+
+CSCMWS+cjerome@US-5CG032847N MINGW64 /c/Personal/DevApp/12.Capstone_Project (master)
+$ git add .
+
+CSCMWS+cjerome@US-5CG032847N MINGW64 /c/Personal/DevApp/12.Capstone_Project (master)
+$ git commit -m "project add"
+[master fbb70b6] project add
+ 1 file changed, 1442 insertions(+)
+ create mode 100644 Workfile_git.txt
+
+CSCMWS+cjerome@US-5CG032847N MINGW64 /c/Personal/DevApp/12.Capstone_Project (master)
+$ git remote add orgin https://github.com/christujesus/Capstone_Project.git
+
+CSCMWS+cjerome@US-5CG032847N MINGW64 /c/Personal/DevApp/12.Capstone_Project (master)
+$ git push -u origin master
+Enumerating objects: 1501, done.
+Counting objects: 100% (1501/1501), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (1476/1476), done.
+Writing objects: 100% (1501/1501), 23.76 MiB | 8.38 MiB/s, done.
+Total 1501 (delta 310), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (310/310), done.
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/christujesus/Capstone_Project/pull/new/master
+remote:
+To https://github.com/christujesus/Capstone_Project.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+CSCMWS+cjerome@US-5CG032847N MINGW64 /c/Personal/DevApp/12.Capstone_Project (master)
+$
