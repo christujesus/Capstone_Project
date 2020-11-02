@@ -1482,3 +1482,10 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 
 CSCMWS+cjerome@US-5CG032847N MINGW64 /c/Personal/DevApp/12.Capstone_Project (master)
 $
+JKenkin : 
+http://52.66.206.213:8080/
+
+username: das
+pass:jcdas
+
+http://65.0.133.248:8080/
